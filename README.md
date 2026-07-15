@@ -1,2 +1,8 @@
 # dataset
-The KFWalls and Pota datasets 
+dataset/
+├── KFWalls/
+│   ├── images/
+│   └── masks/
+└── Pota/
+    ├── images/
+    └── masks/
